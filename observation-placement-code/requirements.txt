@@ -1,0 +1,11 @@
+# Recorded local Python 3.14.6 environment. C++17 compiler and TeX are separate.
+numpy==2.5.1
+scipy==1.18.0
+pandas==3.0.3
+networkx==3.5
+matplotlib==3.11.0
+PyMuPDF==1.26.6
+Pillow==12.3.0
+
+# High-precision cycle and analytical verification
+mpmath
